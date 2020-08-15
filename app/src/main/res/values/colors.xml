@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#58BCF3</color>
+    <color name="colorPrimaryDark">#4ACA5F</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorText">#111441</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorPrimaryFaded">#115672</color>
+    <color name="colorPrimaryFadedv1">#5988A8</color>
+    <color name="colorGray">#F3F2F2</color>
+    <color name="colorInputText">#273d52</color>
+    <color name="colorHeader">#145798</color>
+    <color name="colorDanger">#ff4444</color>
+    <color name="light_green">#e8f5e9</color>
+    <color name="light_gray">#F3F4F3</color>
+</resources>
